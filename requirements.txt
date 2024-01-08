@@ -3,3 +3,4 @@ selenium
 pandas
 scikit-learn
 numpy
+matplotlib.pyplot
